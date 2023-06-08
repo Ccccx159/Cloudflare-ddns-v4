@@ -1,0 +1,11 @@
+{
+  "Email": "Email",
+  "API_Key": "API_Key",
+  "Sleep_Time": 5,
+  "Domain_Info": [
+    {
+      "name": "domain1",
+      "type": "A"
+    }
+  ]
+}
